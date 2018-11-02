@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Widget One",
+    "Description": "Alpha",
+    "sprockets": [
+      {
+        "id": 1,
+        "color": {
+          "red": 1,
+          "green": 255,
+          "blue": 125
+        },
+        "price": 2.55
+      },
+      {
+        "id": 2,
+        "color": {
+          "red": 255,
+          "green": 255,
+          "blue":255
+        },
+        "price": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title" : "Widget Two",
+    "Description": "Beta",
+    "sprockets": []
+  }
+
+]
